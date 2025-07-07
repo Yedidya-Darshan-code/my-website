@@ -440,6 +440,11 @@ body {
     padding: 2rem 0;
 }
 
+/* Experience Section */
+.experience-section {
+    background: white;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-container {
